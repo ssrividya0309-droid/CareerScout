@@ -1,0 +1,22 @@
+{
+  "job_title": "Machine Learning Engineer Intern",
+  "company": "NovaAI Labs",
+  "description": "The Machine Learning Engineer Intern will help develop and evaluate machine learning models, prepare data for model training, and support experimentation with predictive systems.",
+  "required_skills": [
+    "Python",
+    "Machine Learning",
+    "Statistics",
+    "Git"
+  ],
+  "preferred_skills": [
+    "TensorFlow",
+    "PyTorch",
+    "AWS"
+  ],
+  "requirements": [
+    "Currently pursuing a degree in Computer Science, Data Science, or a related field",
+    "Experience building or evaluating machine learning models",
+    "Experience with version control using Git",
+    "Strong programming and quantitative problem-solving skills"
+  ]
+}
