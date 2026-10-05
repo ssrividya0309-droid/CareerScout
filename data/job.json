@@ -1,0 +1,21 @@
+{
+  "job_title": "Data Analyst Intern",
+  "company": "BrightPath Technologies",
+  "description": "The Data Analyst Intern will help analyze business data, create dashboards, and identify insights.",
+  "required_skills": [
+    "SQL",
+    "Excel",
+    "Data Analysis",
+    "Data Visualization"
+  ],
+  "preferred_skills": [
+    "Python",
+    "Tableau",
+    "Power BI"
+  ],
+  "requirements": [
+    "Currently pursuing a degree in Business Analytics, Data Science, or a related field",
+    "Experience working with datasets",
+    "Strong analytical and problem-solving skills"
+  ]
+}

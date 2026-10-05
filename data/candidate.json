@@ -1,0 +1,24 @@
+{
+  "name": "Alex Morgan",
+  "education": "Master's student in Business Analytics",
+  "skills": [
+    "Python",
+    "SQL",
+    "Tableau",
+    "Power BI",
+    "Excel",
+    "Data Visualization",
+    "Data Analysis"
+  ],
+  "experience": [
+    "Completed a data analytics internship",
+    "Built operational dashboards",
+    "Automated data processing workflows",
+    "Analyzed large datasets"
+  ],
+  "interests": [
+    "Data Analytics",
+    "Business Analytics",
+    "Data Science"
+  ]
+}
